@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## thyphenj
 
 You can use the [editor on GitHub](https://github.com/thyphenj/thyphenj.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
