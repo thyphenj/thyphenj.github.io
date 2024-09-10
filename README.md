@@ -1,12 +1,14 @@
-## thyphenj
+# thyphenj
 
-You can use the [editor on GitHub](https://github.com/thyphenj/thyphenj.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [GitHub editor](https://github.com/thyphenj/thyphenj.github.io/edit/main/README.md) on the README.md markdown file.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the site.
 
-### Markdown
+## Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+See [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+Markdown includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -25,8 +27,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
