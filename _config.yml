@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+remote_theme: b2a3e8/jekyll-theme-console
 title: t-j's github
 description: not entirely sure how I intend to use this, but here we go anyway
